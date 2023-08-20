@@ -58,8 +58,8 @@
 # -----------------------------------------
 
 """Palo Alto Networks Cybersecurity Professional Certificate
-    |_____> Palo Alto Networks Cybersecurity Foundation             #
-    |_____> Palo Alto Networks Network Security Fundamentals        # 
+    |_____> Palo Alto Networks Cybersecurity Foundation             # X
+    |_____> Palo Alto Networks Network Security Fundamentals        # 082323' inprog
     |_____> Palo Alto Networks Cloud Security Fundamentals          # 042623' completed
     |_____> Palo Alto Networks Security Operations Fundamentals     # 051223' completed
 """
@@ -71,18 +71,26 @@
     |_____> 4- Preparing for the AZ-900 Microsoft Azure Fundamentals Exam   #
 """
 
+"""John Hopkins university
+    Healthcare IT Support Specialization
+    |_____> Critical role of IT support staff in healthcare            # X
+    |_____> Health IT fundamentals                                     # X
+    |_____> Operations & patient safety for healthcare IT staff        # X
+    |_____> Healthcare data security, privacy, & complaince            # X
+"""
+
 """Microsoft Azure Developer Associate (AZ-204) Professional Certificate
-    |_____> Create Serverless applications                              #
-    |_____> Connect Your Services with Microsoft Azure Service Bus      #
-    |_____> Data Storage in Microsoft Azure for Associate Developers    #
-    |_____> 4- Deploy a website with Azure Virtual Machines             #
-    |_____> 5- Manage Resources in Azure                                #
-    |_____> 6- Deploy a website to Azure with Azure App Service         #
-    |_____> 7- Secure your Cloud Data                                   # 051823'C
+    |_____> 1- Create Serverless applications                              #
+    |_____> 2- Connect Your Services with Microsoft Azure Service Bus      #
+    |_____> 3- Data Storage in Microsoft Azure for Associate Developers    #
+    |_____> 4- Deploy a website with Azure Virtual Machines                #
+    |_____> 5- Manage Resources in Azure                                   #
+    |_____> 6- Deploy a website to Azure with Azure App Service            #
+    |_____> 7- Secure your Cloud Data                                      # 051823'C
 """
 
 """ISC2 Certified in Cybersecurity Specialization
-    |_____> 1- Security Principles                  #  
+    |_____> 1- Security Principles                  # 
     |_____> 2- Incident Response, BC,& DR concepts  # 
     |_____> 3- Access Control Concepts              # 
     |_____> 4- Network Security                     # 071223'C
@@ -98,8 +106,8 @@
 """ Red Hat
 Linux and Private Cloud Administration on IBM Power Systems Specialization
     |-----> Fundamentals of Red Hat Enterprise Linux            # 080323' completed
-    |-----> Linux System Administration w/ IBM Power Systems    # X
-    |_____> Private Cloud Management on IBM Power Systems       # X
+    |-----> Linux System Administration w/ IBM Power Systems    # 081323' completed
+    |_____> Private Cloud Management on IBM Power Systems       # Xcl
 """
 
 """ InfoSec
